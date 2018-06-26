@@ -1,0 +1,15 @@
+.App .login-form {
+    width: 100vw;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.App .login-form  input {
+    margin: 20px;
+    width: 300px;
+    height: 30px;
+    padding: 5px;
+}
